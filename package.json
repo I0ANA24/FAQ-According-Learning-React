@@ -2,7 +2,7 @@
   "name": "faq-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://i0ana24.github.io/FAQ-According-Learning-React-",
+  "homepage": "https://i0ana24.github.io/FAQ-According-Learning-React",
   "type": "module",
   "scripts": {
     "dev": "vite",
